@@ -3,12 +3,12 @@ Analyze business performance for an eCommerce company, taking into account sever
 
 ## OVERVIEW
 “In a company, measuring business performance is very important to track, monitor, and assess the success or failure of various business processes. Therefore, this paper will analyze business performance for an eCommerce company, taking into account several business metrics, namely customer growth, product quality, and payment types.”
-### Data Preparation
+## Data Preparation
 
 ![Img 1](Images/1.jpg)
                                                                  ![Img 2](Images/3.jpg)
 
-### Annual Customer Activity Growth Analysis
+## Annual Customer Activity Growth Analysis
 ![Img 3](Images/2.jpg)
 ![Img 4](Images/9.jpg)
 
@@ -20,7 +20,7 @@ Therefore, the company continues to strengthen its marketing to attract customer
 
 Customers who place orders have increased from 2017 to 2018, as with active customers. However, it is different with customers who place orders again, which actually decreased from 2017 to 2018. Companies can evaluate the results of reviews of products sold to maintain sales quality and influence customers to reorder. So, it is hoped that in the following year, customer reorders will increase.
 
-### Annual Product Category
+## Annual Product Category
 ![Img 7](Images/5.jpg)
 ![Img 8](Images/12.jpg)  ![Img 9](Images/13.jpg)
 
@@ -32,7 +32,7 @@ It can be seen, the product categories that generate the most revenue experience
 
 In addition, from the data, it was found that the product category that generated the most revenue and had the most canceled orders in 2018 was the same product category, namely, Healthy Beauty. Further analysis needs to be done on Healthy Beauty products, whether product sales in 2018 are dominated by Healthy Beauty.
 
-### Annual Payment Type Usage Analysis
+## Annual Payment Type Usage Analysis
 ![Img 10](Images/6.jpg)
 ![Img 11](Images/14.jpg)  ![Img 12](Images/15.jpg)
 
